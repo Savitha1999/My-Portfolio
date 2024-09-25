@@ -1,24 +1,58 @@
-import logo from './logo.svg';
 import './App.css';
+import Layout from './components/layout/Layout';
+import About from './pages/About/About';
+import Contacts from './pages/Contact/Contacts';
+import Educations from './pages/Education/Educations';
+import Technology from './pages/Techstack/Technology';
+import WorkExp from './pages/Work/WorkExp';
+import Projects from './pages/projects/Projects';
+import ScrollToTop from "react-scroll-to-top";
+import  {useTheme} from './context/ThemeContext';
+import { Zoom } from 'react-reveal';
+import MobileApp from './components/layout/MobileNav/MobileApp';
 
-function App() {
+
+function App() 
+{
+
+  const {theme} = useTheme()
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+
+    <div id={theme} > 
+     <MobileApp />
+      <Layout />
+    
+     <div className='container '>
+
+     <About />
+     <Educations />
+     <Technology />
+     <Projects />
+     <WorkExp />
+     <Contacts />
+     </div>
+
+     <Zoom>
+     <div className='footer pb-3 ms-3'>
+        <h4 className='text-center mt-4 '>
+          Made  With 😊 Savitha  &copy ; 2024
+        </h4>
+     </div>
+     </Zoom>
+     </div>
+
+
+     <ScrollToTop smooth 
+     color='#f29f67' 
+     style={{backgroundColor:"#1e1e2c" , borderRadius:"80px"}} />
+
+     
+     
+    </>
   );
 }
 

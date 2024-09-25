@@ -1,0 +1,108 @@
+.work
+{
+    background-color: #dff2f1d4;
+    margin-left:140px ;
+}
+
+.work-exp
+{
+    padding: 60px 0px;
+}
+
+.work-exp h2
+{
+    font-weight: bold;
+    color: #1e1e2c;
+}
+
+.work-exp hr
+{
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+
+
+.work-exp
+#ads
+{
+    margin: 30px 0px 30px 0px;
+    cursor: pointer;
+}
+
+.work-exp
+#ads .card-notify-badge
+{
+    position: absolute;
+    left: -10px;
+    top: -20px;
+    background: #f29f67;
+    text-align: center;
+    border-radius: 30px;
+    color: black;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.work-exp
+.card img
+{
+    height: 200px;
+    width: 100%;
+}
+
+.work-exp
+.card-details-badge
+{
+    background-color: #f13188;
+    text-align: center;
+    border-radius: 10px;
+    color:white;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+.work-exp
+.card-image-overly
+{
+    font-size: 20px;
+}
+
+.work-exp
+.card-image-overly span
+{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.work-exp
+.card:hover
+{
+    background-color: white;
+    border-radius: 4px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;     */
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transition: all 1s ease;
+}
+
+
+
+
+
+
+
+
+
+
+/* ================================= */
+@media (max-width:600px) 
+{
+    .work
+    {
+        padding: 0;
+        margin: 10px;
+        
+    }
+    
+}
+
