@@ -9,6 +9,8 @@ import { FcReading } from "react-icons/fc";
 import { FcVideoProjector } from "react-icons/fc";
 import { FcBusinessContact } from "react-icons/fc";
 import { FcPositiveDynamic } from "react-icons/fc";
+import profile from '../../assets/images/Portlogo.png';
+
 
 import { Link } from 'react-scroll';
 
@@ -26,7 +28,10 @@ const Menu = ({toggle}) =>
             <Zoom>
 
             <div className="navbar-profile-pic">
-            <img src="https://www.kindpng.com/picc/m/140-1403886_office-girl-cartoon-png-transparent-png.png" style={{borderRadius:"50%"}} alt="Profile Pic" />
+            {/* <img src="https://www.kindpng.com/picc/m/140-1403886_office-girl-cartoon-png-transparent-png.png" style={{borderRadius:"50%"}} alt="Profile Pic" /> */}
+        
+            <img src={profile} style={{borderRadius:"100%"}}   alt="Profile Pic" />
+
         </div> 
 
             </Zoom>

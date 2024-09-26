@@ -1,12 +1,12 @@
 .navbar-profile-pic
 {
-    height: 140px;
-    width: 140px;
+    height: 110px;
+    width: 110px;
     display: flex;
     vertical-align: middle;
     margin: 0 auto;
     margin-top: 20px;
-    
+    margin-right: 40%;
 }
 
 .nav-item
