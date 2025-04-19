@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebf50ff6.css",
+    "main.js": "/static/js/main.04946aab.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/TOUR.png": "/static/media/TOUR.ebb94a2089dba5ccdf09.png",
+    "static/media/Swetha.png": "/static/media/Swetha.30a269146edfd4efe910.png",
+    "static/media/Cementio.png": "/static/media/Cementio.fa551750f1e40ee971c8.png",
+    "static/media/mythra.png": "/static/media/mythra.ad0d55bac25a6215db80.png",
+    "static/media/Fita.png": "/static/media/Fita.4afce3e1a8d8818c4f89.png",
+    "static/media/Fita .pdf": "/static/media/Fita .502639f36c6a364d95bb.pdf",
+    "static/media/Amazon.png": "/static/media/Amazon.6de8217ad7b34737e1f9.png",
+    "static/media/Form.png": "/static/media/Form.4a58a3ec80d55492734f.png",
+    "static/media/CV.pdf": "/static/media/CV.bb2bc7b2588800d14133.pdf",
+    "static/media/Portlogo.png": "/static/media/Portlogo.65f07addb78d1a683c5b.png",
+    "static/media/contact.png": "/static/media/contact.cd971d49d226bb158e19.png",
+    "static/media/MYPROFILE.png": "/static/media/MYPROFILE.3565623a8dda2336804a.png",
+    "index.html": "/index.html",
+    "main.ebf50ff6.css.map": "/static/css/main.ebf50ff6.css.map",
+    "main.04946aab.js.map": "/static/js/main.04946aab.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf50ff6.css",
+    "static/js/main.04946aab.js"
+  ]
+}

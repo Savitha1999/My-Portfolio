@@ -27,15 +27,15 @@ export default function About()
                
                 {/* https://t3.ftcdn.net/jpg/09/48/83/74/240_F_948837440_so22Z7SIcPO71USweYxagGGPd5T3hJLD.jpg */}
 
-                <img src={profile} />
+                <img src={profile} alt="My Profile" />
 
 
                 </div>
                 <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
                     <h1> About Me </h1>
                     <p>
-                    Hello! I’m Savitha H., I graduated with a degree in Computer Applications (BCA) from Thiruvalluvar University in 2020, driven by a strong passion for software development. Recently, I completed a Full-Stack MERN Developer course at FITA Academy in Pondicherry.
-                    I have developed a solid foundation in web development technologies including HTML, CSS, JavaScript, React.js, MongoDB, Express.js, Node.js, Bootstrap, and React Bootstrap.
+                    Hello! I'm Savitha H., I graduated with a degree in Computer Applications (BCA) from Thiruvalluvar University in 2020, driven by a strong passion for software development. Recently, I completed a Full-Stack MERN Developer course at FITA Academy in Pondicherry.
+                    I have developed a solid foundation in web development technologies including HTML, CSS, JavaScript, React.js, MongoDB, Express.js, Node.js, Bootstrap,React Bootstrap and MySQL.
                     I am now seeking an entry-level position where I can leverage my skills to develop and maintain high-quality websites. I am eager to contribute to a dynamic team and apply my problem-solving abilities in a collaborative environment.
 
 

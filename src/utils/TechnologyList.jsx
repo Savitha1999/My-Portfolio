@@ -1,5 +1,5 @@
 import {  BsBootstrap } from "react-icons/bs";
-import {  SiExpress, SiGithub, SiMongodb, SiMysql, SiNodedotjs, SiReact, SiReactbootstrap } from "react-icons/si";
+import {  SiExpress, SiGithub, SiMongodb, SiMysql, SiNodedotjs, SiPostman, SiReact, SiReactbootstrap } from "react-icons/si";
 import { SiHtml5 } from "react-icons/si";
 import { SiCss3 } from "react-icons/si";
 import { SiJavascript } from "react-icons/si";
@@ -71,6 +71,12 @@ export const TechnologyList = [
         _id:10,
         name:'GitHub',
         icon: SiGithub ,
+    },
+
+    {
+        _id:11,
+        name:'Postman Tool',
+        icon: SiPostman ,
     }
    
 ];

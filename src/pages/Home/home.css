@@ -1,9 +1,10 @@
 .home-container
 {
-    height: 300px;
+    height: 320px;
     color: white;
     background-color: black;
     padding-left: 150px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .home-content 

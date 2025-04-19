@@ -38,9 +38,9 @@ function App()
 
      <Zoom>
      <div className='footer pb-3 ms-3'>
-        <h4 className='text-center mt-4 '>
-          Made  With 😊 Savitha  &copy ; 2024
-        </h4>
+     <h4 className='text-center mt-4'>
+        Made With 😊 Savitha &copy; 2024
+     </h4>
      </div>
      </Zoom>
      </div>

@@ -9,13 +9,11 @@ import { FcReading } from "react-icons/fc";
 import { FcVideoProjector } from "react-icons/fc";
 import { FcBusinessContact } from "react-icons/fc";
 import { FcPositiveDynamic } from "react-icons/fc";
-import profile from '../../assets/images/Portlogo.png';
+// import profile from '../../assets/images/Portlogo.png';
+import profile from '../../assets/images/MYPROFILE.png';
 
 
 import { Link } from 'react-scroll';
-
-
-
 
 
 const Menu = ({toggle}) =>

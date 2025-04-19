@@ -148,4 +148,9 @@ button:focus
     {
         display: none;
     }
+
+    .button
+    {
+        width: 50%;
+    }
 }

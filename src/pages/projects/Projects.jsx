@@ -32,7 +32,7 @@ export default function Projects()
         {/* card Designs */}
         <div className="row p-2" id="ads" style={{margin: "30px 0px 30px 0px", marginRight:"40px"}} >
         <Roll>
-           <div className="col-md-4">
+           <div className="col-12 col-sm-6 col-md-4">
                 <div className="card rounded">
                     <div className="card-image">
                         <span className="card-notif-badge"
@@ -61,18 +61,18 @@ export default function Projects()
                             <h5 className="text-uppercase"> Mythra Shopping Website (Recreated)  </h5>
                         </div>
                         <div className="row p-2">
-                            <div className="col-6">
-                         <a className="ad-btn" href="https://www.savitha.online/myntra/"><TbWorldWww size={30} /> Browser </a> 
+                            <div className="col-lg-6 col-sm-12">
+                         <a className="ad-btn"  target="_blank" href="https://www.savitha.online/myntra/"><TbWorldWww size={30} /> Browser </a> 
                          </div>
-                         <div className="col-6 ">
-                          <a className="ad-btn1" href="https://github.com/Savitha1999/Mythra-Shopping"><IoLogoGithub size={30} /> GitHub </a> 
+                         <div className="col-lg-6 col-sm-12 ">
+                          <a className="ad-btn1"  target="_blank" href="https://github.com/Savitha1999/Mythra-Shopping"><IoLogoGithub size={30} /> GitHub </a> 
                           </div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div className="col-md-4">
+            <div className="col-12 col-sm-6 col-md-4 mt-3">
                 <div className="card rounded">
                     <div className="card-image">
                         <span className="card-notif-badge"
@@ -101,18 +101,18 @@ export default function Projects()
                             <h5 className="text-uppercase"> Amazon Ecommerce Website (Recreated)  </h5>
                         </div>
                         <div className="row p-2">
-                            <div className="col-6">
-                         <a className="ad-btn" href="https://www.savitha.online/amazon/"><TbWorldWww size={30} /> Browser </a> 
+                            <div className="col-lg-6 col-sm-12">
+                         <a className="ad-btn"  target="_blank" href="https://www.savitha.online/amazon/"><TbWorldWww size={30} /> Browser </a> 
                          </div>
-                         <div className="col-6 ">
-                          <a className="ad-btn1" href="https://github.com/Savitha1999/Amazon-Shop"><IoLogoGithub size={30} /> GitHub </a> 
+                         <div className="col-lg-6 col-sm-12 ">
+                          <a className="ad-btn1"  target="_blank" href="https://github.com/Savitha1999/Amazon-Shop"><IoLogoGithub size={30} /> GitHub </a> 
                           </div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div className="col-md-4">
+            <div className="col-12 col-sm-6 col-md-4 mt-3">
                 <div className="card rounded">
                     <div className="card-image">
                         <span className="card-notif-badge"
@@ -141,11 +141,11 @@ export default function Projects()
                             <h5 className="text-uppercase"> React Form Validation With Error Message  </h5>
                         </div>
                         <div className="row p-2">
-                            <div className="col-6">
-                         <a className="ad-btn" href="https://www.savitha.online/form/"><TbWorldWww size={30} /> Browser </a> 
+                            <div className="col-lg-6 col-sm-12">
+                         <a className="ad-btn"  target="_blank" href="https://www.savitha.online/form/"><TbWorldWww size={30} /> Browser </a> 
                          </div>
-                         <div className="col-6 ">
-                          <a className="ad-btn1" href="https://github.com/Savitha1999/React-Form"><IoLogoGithub size={30} /> GitHub </a> 
+                         <div className="col-lg-6 col-sm-12 ">
+                          <a className="ad-btn1"  target="_blank" href="https://github.com/Savitha1999/React-Form"><IoLogoGithub size={30} /> GitHub </a> 
                           </div>
                         </div>
                     </div>
@@ -158,7 +158,7 @@ export default function Projects()
         <div className="row  p-2" id="ads" style={{margin: "30px 0px 30px 0px", marginRight:"40px"}}>
         <Roll>
 
-        <div className="col-md-4">
+        <div className="col-12 col-sm-6 col-md-4">
                 <div className="card rounded">
                     <div className="card-image">
                         <span className="card-notif-badge"
@@ -187,11 +187,11 @@ export default function Projects()
                             <h5 className="text-uppercase"> Fita Real Time Project (TeamWork)  </h5>
                         </div>
                         <div className="row p-2">
-                            <div className="col-6">
-                         <a className="ad-btn" href="https://www.savitha.online/fita/"><TbWorldWww size={30} /> Browser </a> 
+                            <div className="col-lg-6 col-sm-12">
+                         <a className="ad-btn"  target="_blank" href="https://www.savitha.online/fita/"><TbWorldWww size={30} /> Browser </a> 
                          </div>
-                         <div className="col-6 ">
-                          <a className="ad-btn1" href="https://github.com/Savitha1999/Fita-Realtime-Project"><IoLogoGithub size={30} /> GitHub </a> 
+                         <div className="col-lg-6 col-sm-12 ">
+                          <a className="ad-btn1"  target="_blank" href="https://github.com/Savitha1999/Fita-Realtime-Project"><IoLogoGithub size={30} /> GitHub </a> 
                           </div>
                         </div>
                     </div>
@@ -199,7 +199,7 @@ export default function Projects()
             </div>
 
 
-            <div className="col-md-4">
+            <div className="col-md-4 mt-3">
                 <div className="card rounded">
                     <div className="card-image">
                         <span className="card-notif-badge"
@@ -228,11 +228,11 @@ export default function Projects()
                         </div>
 
                          <div className="row p-2">
-                            <div className="col-6">
-                         <a className="ad-btn" href="https://www.savitha.online/tours/"><TbWorldWww size={30} /> Browser </a> 
+                            <div className="col-lg-6 col-sm-12">
+                         <a className="ad-btn"  target="_blank" href="https://www.savitha.online/tours/"><TbWorldWww size={30} /> Browser </a> 
                          </div>
-                         <div className="col-6 ">
-                          <a className="ad-btn1" href="https://github.com/Savitha1999/Tours-And-Travels"><IoLogoGithub size={30} /> GitHub </a> 
+                         <div className="col-lg-6 col-sm-12 ">
+                          <a className="ad-btn1"  target="_blank" href="https://github.com/Savitha1999/Tours-And-Travels"><IoLogoGithub size={30} /> GitHub </a> 
                           </div>
                         </div>
 
@@ -241,7 +241,7 @@ export default function Projects()
             </div>
 
 
-            <div className="col-md-4">
+            <div className="col-md-4 mt-3">
                 <div className="card rounded">
                     <div className="card-image">
                         <span className="card-notif-badge"
@@ -269,11 +269,11 @@ export default function Projects()
                             <h5 className="text-uppercase"> Cement Manufature Website (Recreated)  </h5>
                         </div>
                         <div className="row p-2">
-                            <div className="col-6">
-                         <a className="ad-btn" href="https://www.savitha.online/cementio/"><TbWorldWww size={30} /> Browser </a> 
+                            <div className="col-lg-6 col-sm-12">
+                         <a className="ad-btn"  target="_blank" href="https://www.savitha.online/cementio/"><TbWorldWww size={30} /> Browser </a> 
                          </div>
-                         <div className="col-6 ">
-                          <a className="ad-btn1" href="https://github.com/Savitha1999/Cementio"><IoLogoGithub size={30} /> GitHub </a> 
+                         <div className="col-lg-6 col-sm-12 ">
+                          <a className="ad-btn1"  target="_blank" href="https://github.com/Savitha1999/Cementio"><IoLogoGithub size={30} /> GitHub </a> 
                           </div>
                         </div>
 
@@ -314,11 +314,11 @@ export default function Projects()
                             <h5 className="text-uppercase"> Shwtha International Website (Recreated)  </h5>
                         </div>
                         <div className="row p-2">
-                            <div className="col-6">
-                         <a className="ad-btn" href="https://www.savitha.online/shweta/"><TbWorldWww size={30} /> Browser </a> 
+                            <div className="col-lg-6 col-sm-12">
+                         <a className="ad-btn" target="_blank" href="https://www.savitha.online/shweta/"><TbWorldWww size={30} /> Browser </a> 
                          </div>
-                         <div className="col-6 ">
-                          <a className="ad-btn1" href="https://github.com/Savitha1999/Shweta-International"><IoLogoGithub size={30} /> GitHub </a> 
+                         <div className="col-lg-6 col-sm-12 ">
+                          <a className="ad-btn1" target="_blank" href="https://github.com/Savitha1999/Shweta-International"><IoLogoGithub size={30} /> GitHub </a> 
                           </div>
                         </div>
 
