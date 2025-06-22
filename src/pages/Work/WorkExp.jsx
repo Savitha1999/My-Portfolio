@@ -37,11 +37,11 @@ export default function WorkExp()
                         <img src={work3} alt="project" />
                     </div>
                     <div className="card-image-overly m-auto mt-2">
-                        <span className="card-details-badge"> FRESHER </span>
+  <span className="card-details-badge">Legends Tech Solution Pvt. Ltd., Puducherry</span>
                     </div>
                     <div className="card-body text-center">
                         <div className="ad-title m-auto">
-                            <h5 className="" style={{color:"#138781"}}> 0-1 Year Exprience </h5>
+                            <h5 className="" style={{color:"#138781"}}> 2 Years Exprience </h5>
                         </div>
                     </div>
                 </div>

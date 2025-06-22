@@ -18,7 +18,7 @@ export default function Educations()
 
         <VerticalTimeline>
 
-        <VerticalTimelineElement
+        {/* <VerticalTimelineElement
            className="vertical-timeline-element--work"
            contentStyle={{ background: 'white', color: 'black' }}
            contentArrowStyle={{ borderRight: '7px solid  white' }}
@@ -28,7 +28,7 @@ export default function Educations()
         >
         <h3 className="vertical-timeline-element-title">Mern FullStack Developer</h3>
         <h4 className="vertical-timeline-element-subtitle mt-2"> FITA Academy, Pondichery. </h4>   
-        </VerticalTimelineElement>
+        </VerticalTimelineElement> */}
 
         <VerticalTimelineElement
            className="vertical-timeline-element--work"
@@ -42,6 +42,8 @@ export default function Educations()
         <h4 className="vertical-timeline-element-subtitle mt-2"> Thiruvalluvar University, Vellore. </h4>   
         </VerticalTimelineElement>
 
+
+ 
         </VerticalTimeline>
 
 
