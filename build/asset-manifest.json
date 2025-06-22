@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebf50ff6.css",
+    "main.js": "/static/js/main.29c1cce5.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/TOUR.png": "/static/media/TOUR.ebb94a2089dba5ccdf09.png",
+    "static/media/Swetha.png": "/static/media/Swetha.30a269146edfd4efe910.png",
+    "static/media/Cementio.png": "/static/media/Cementio.fa551750f1e40ee971c8.png",
+    "static/media/ppcUser.png": "/static/media/ppcUser.ba78f22adac1a7c6a1e8.png",
+    "static/media/mythra.png": "/static/media/mythra.ad0d55bac25a6215db80.png",
+    "static/media/Fita.png": "/static/media/Fita.4afce3e1a8d8818c4f89.png",
+    "static/media/Amazon.png": "/static/media/Amazon.6de8217ad7b34737e1f9.png",
+    "static/media/ppcLogin.png": "/static/media/ppcLogin.07ad8303b69fe08459aa.png",
+    "static/media/ppcAdmin.png": "/static/media/ppcAdmin.1d36915b61ff6342b2dd.png",
+    "static/media/ppcAdminHome.png": "/static/media/ppcAdminHome.4f4c5a891ad6ced72622.png",
+    "static/media/savitha_cv.pdf": "/static/media/savitha_cv.774d9823a3ab9d253117.pdf",
+    "static/media/ppcUserHome.png": "/static/media/ppcUserHome.dec1080e372c023f163e.png",
+    "static/media/Form.png": "/static/media/Form.4a58a3ec80d55492734f.png",
+    "static/media/Portlogo.png": "/static/media/Portlogo.65f07addb78d1a683c5b.png",
+    "static/media/contact.png": "/static/media/contact.cd971d49d226bb158e19.png",
+    "static/media/MYPROFILE.png": "/static/media/MYPROFILE.3565623a8dda2336804a.png",
+    "index.html": "/index.html",
+    "main.ebf50ff6.css.map": "/static/css/main.ebf50ff6.css.map",
+    "main.29c1cce5.js.map": "/static/js/main.29c1cce5.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf50ff6.css",
+    "static/js/main.29c1cce5.js"
+  ]
+}
