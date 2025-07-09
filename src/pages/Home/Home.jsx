@@ -6,7 +6,7 @@ import Typewriter from 'typewriter-effect';
 import { BsFillMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 import {Fade} from 'react-reveal';
 import cv from "../../assets/images/savitha_cv.pdf";
-
+import fita from '../../assets/images/Fita .pdf';
 
 
 
@@ -52,7 +52,7 @@ const Home = () =>
                      > Hire Me </a> */}
                     {/* <button className="btn btn-hire"> Hire Me  </button> */}
                     <a className="btn btn-cv bg-primary m-3"  href={cv} download="resume"> My Resume</a>
-                    {/* <a className="btn btn-cv bg-info m-3"  href={fita} download="Certificate"> Course Certificate </a> */}
+                    <a className="btn btn-cv bg-info m-3"  href={fita} download="Certificate"> Course Certificate </a>
 
                 </div>
                 </Fade>

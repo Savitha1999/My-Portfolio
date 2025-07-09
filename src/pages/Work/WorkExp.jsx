@@ -37,13 +37,22 @@ export default function WorkExp()
                         <img src={work3} alt="project" />
                     </div>
                     <div className="card-image-overly m-auto mt-2">
-  <span className="card-details-badge">Legends Tech Solution Pvt. Ltd., Puducherry</span>
+  <span className="card-details-badge">Legends Tech Solution Pvt. Ltd., Pudhucherry</span>
                     </div>
-                    <div className="card-body text-center">
+                    {/* <div className="card-body text-center">
                         <div className="ad-title m-auto">
                             <h5 className="" style={{color:"#138781"}}> 2 Years Exprience </h5>
                         </div>
+                    </div> */}
+
+                       <div className="card-body text-center">
+                    <div className="ad-title m-auto">
+                      <h5 style={{ color: "#138781" }}>2 Years Experience</h5>
+                      <p className="text-muted" style={{ fontSize: "14px" }}>
+                        (2023 - Present)
+                      </p>
                     </div>
+                  </div>
                 </div>
                 <div className="col-md-4"></div>
             </div>
